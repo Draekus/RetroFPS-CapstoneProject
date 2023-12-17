@@ -2,7 +2,8 @@
 This is my capstone project for my Object Oriented Programming course. It is written in Python3 and uses the PyGame library for rendering graphics. The game is pseudo-3D and utilizes raycasting along with some trigonometry in order to project the 3D game world onto the 2D space of the screen. Only the 2D engine of PyGame with tiles and sprites are used to generate what looks like a 3D world. The game is still in development, and currently only has one level, but I plan on adding more weapons, enemies, and levels.
 
 ## Running The Game
-Prerequisites: 
+#### Prerequisites: 
+
 In order to run the game you must have [python3](https://www.python.org/downloads/) installed as well as the [PyGame](https://www.pygame.org/wiki/GettingStarted) library which can be installed using the command 
 
 ```python3 -m pip install -U pygame --user```
