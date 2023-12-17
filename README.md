@@ -4,9 +4,11 @@ This is my capstone project for my Object Oriented Programming course. It is wri
 ## Running The Game
 Prerequisites: 
 In order to run the game you must have [python3](https://www.python.org/downloads/) installed as well as the [PyGame](https://www.pygame.org/wiki/GettingStarted) library which can be installed using the command 
+
 ```python3 -m pip install -U pygame --user```
 
-To start the game just navigate to the source code directory and run the main.py file.
+To start the game just navigate to the source code directory and run the main.py file
+
 ```python3 main.py```
 
 ## Changing The Settings
